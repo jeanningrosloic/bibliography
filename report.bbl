@@ -1,0 +1,81 @@
+\begin{thebibliography}{10}
+
+\bibitem{bohte2002error}
+Sander~M Bohte, Joost~N Kok, and Han La~Poutre.
+\newblock Error-backpropagation in temporally encoded networks of spiking
+  neurons.
+\newblock {\em Neurocomputing}, 48(1-4):17--37, 2002.
+
+\bibitem{fujisaki1998command}
+Hiroya Fujisaki, Sumio Ohno, and Changfu Wang.
+\newblock A command-response model for f0 contour generation in multilingual
+  speech synthesis.
+\newblock In {\em The Third ESCA/COCOSDA Workshop (ETRW) on Speech Synthesis},
+  1998.
+
+\bibitem{gavrilov2016methods}
+Andrey~V Gavrilov and Konstantin~O Panchenko.
+\newblock Methods of learning for spiking neural networks. a survey.
+\newblock In {\em 2016 13th International Scientific-Technical Conference on
+  Actual Problems of Electronics Instrument Engineering (APEIE)}, volume~2,
+  pages 455--460. IEEE, 2016.
+
+\bibitem{honnet2015atom}
+Pierre-Edouard Honnet, Branislav Gerazov, and Philip~N Garner.
+\newblock Atom decomposition-based intonation modelling.
+\newblock In {\em 2015 IEEE International Conference on Acoustics, Speech and
+  Signal Processing (ICASSP)}, pages 4744--4748. IEEE, 2015.
+
+\bibitem{huh2018gradient}
+Dongsung Huh and Terrence~J Sejnowski.
+\newblock Gradient descent for spiking neural networks.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  1440--1450, 2018.
+
+\bibitem{lukovsevivcius2012reservoir}
+Mantas Luko{\v{s}}evi{\v{c}}ius, Herbert Jaeger, and Benjamin Schrauwen.
+\newblock Reservoir computing trends.
+\newblock {\em KI-K{\"u}nstliche Intelligenz}, 26(4):365--371, 2012.
+
+\bibitem{maass2002real}
+Wolfgang Maass, Thomas Natschl{\"a}ger, and Henry Markram.
+\newblock Real-time computing without stable states: A new framework for neural
+  computation based on perturbations.
+\newblock {\em Neural computation}, 14(11):2531--2560, 2002.
+
+\bibitem{mallat1993matching}
+St{\'e}phane~G Mallat and Zhifeng Zhang.
+\newblock Matching pursuits with time-frequency dictionaries.
+\newblock {\em IEEE Transactions on signal processing}, 41(12):3397--3415,
+  1993.
+
+\bibitem{mohemmed2012span}
+Ammar Mohemmed, Stefan Schliebs, Satoshi Matsuda, and Nikola Kasabov.
+\newblock Span: Spike pattern association neuron for learning spatio-temporal
+  spike patterns.
+\newblock {\em International journal of neural systems}, 22(04):1250012, 2012.
+
+\bibitem{mohemmed2013training}
+Ammar Mohemmed, Stefan Schliebs, Satoshi Matsuda, and Nikola Kasabov.
+\newblock Training spiking neural networks to associate spatio-temporal
+  input--output spike patterns.
+\newblock {\em Neurocomputing}, 107:3--10, 2013.
+
+\bibitem{pfister2006optimal}
+Jean-Pascal Pfister, Taro Toyoizumi, David Barber, and Wulfram Gerstner.
+\newblock Optimal spike-timing-dependent plasticity for precise action
+  potential firing in supervised learning.
+\newblock {\em Neural computation}, 18(6):1318--1348, 2006.
+
+\bibitem{ponulak2006supervised}
+Filip Ponulak.
+\newblock Supervised learning in spiking neural networks with resume method.
+\newblock {\em Phd, Poznan University of Technology}, 46:47, 2006.
+
+\bibitem{ponulak2010supervised}
+Filip Ponulak and Andrzej Kasi{\'n}ski.
+\newblock Supervised learning in spiking neural networks with resume: sequence
+  learning, classification, and spike shifting.
+\newblock {\em Neural computation}, 22(2):467--510, 2010.
+
+\end{thebibliography}
