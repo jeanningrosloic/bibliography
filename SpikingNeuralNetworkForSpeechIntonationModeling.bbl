@@ -1,0 +1,242 @@
+\begin{thebibliography}{10}
+
+\bibitem{bertschinger2004real}
+Nils Bertschinger and Thomas Natschl{\"a}ger.
+\newblock Real-time computation at the edge of chaos in recurrent neural
+  networks.
+\newblock {\em Neural computation}, 16(7):1413--1436, 2004.
+
+\bibitem{bohte2002error}
+Sander~M Bohte, Joost~N Kok, and Han La~Poutre.
+\newblock Error-backpropagation in temporally encoded networks of spiking
+  neurons.
+\newblock {\em Neurocomputing}, 48(1-4):17--37, 2002.
+
+\bibitem{dockendorf2009liquid}
+Karl~P Dockendorf, Il~Park, Ping He, Jos{\'e}~C Pr{\'\i}ncipe, and Thomas~B
+  DeMarse.
+\newblock Liquid state machines and cultured cortical networks: The separation
+  property.
+\newblock {\em Biosystems}, 95(2):90--97, 2009.
+
+\bibitem{fujisaki1998command}
+Hiroya Fujisaki, Sumio Ohno, and Changfu Wang.
+\newblock A command-response model for f0 contour generation in multilingual
+  speech synthesis.
+\newblock In {\em The Third ESCA/COCOSDA Workshop (ETRW) on Speech Synthesis},
+  1998.
+
+\bibitem{grzyb2009model}
+Beata~J Grzyb, Eris Chinellato, Grzegorz~M Wojcik, and Wieslaw~A Kaminski.
+\newblock Which model to use for the liquid state machine?
+\newblock In {\em 2009 International Joint Conference on Neural Networks},
+  pages 1018--1024. IEEE, 2009.
+
+\bibitem{hebb1949organization}
+Donald~O Hebb.
+\newblock The organization of behavior; a neuropsycholocigal theory.
+\newblock {\em A Wiley Book in Clinical Psychology.}, pages 62--78, 1949.
+
+\bibitem{honnet2015atom}
+Pierre-Edouard Honnet, Branislav Gerazov, and Philip~N Garner.
+\newblock Atom decomposition-based intonation modelling.
+\newblock In {\em 2015 IEEE International Conference on Acoustics, Speech and
+  Signal Processing (ICASSP)}, pages 4744--4748. IEEE, 2015.
+
+\bibitem{hourdakis2013use}
+Emmanouil Hourdakis and Panos Trahanias.
+\newblock Use of the separation property to derive liquid state machines with
+  enhanced classification performance.
+\newblock {\em Neurocomputing}, 107:40--48, 2013.
+
+\bibitem{huh2018gradient}
+Dongsung Huh and Terrence~J Sejnowski.
+\newblock Gradient descent for spiking neural networks.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  1440--1450, 2018.
+
+\bibitem{ikeda2018short}
+Narumitsu Ikeda, Yoshinao Sato, and Hirokazu Takahashi.
+\newblock Short utterance speaker recognition by reservoir with self-organized
+  mapping.
+\newblock In {\em 2018 IEEE Spoken Language Technology Workshop (SLT)}, pages
+  1073--1077. IEEE, 2018.
+
+\bibitem{jaeger2004harnessing}
+Herbert Jaeger and Harald Haas.
+\newblock Harnessing nonlinearity: Predicting chaotic systems and saving energy
+  in wireless communication.
+\newblock {\em science}, 304(5667):78--80, 2004.
+
+\bibitem{karaiskos2008blizzard}
+Vasilis Karaiskos, Simon King, Robert~AJ Clark, and Catherine Mayo.
+\newblock The blizzard challenge 2008.
+\newblock In {\em Proc. Blizzard Challenge Workshop, Brisbane, Australia},
+  2008.
+
+\bibitem{legenstein2007edge}
+Robert Legenstein and Wolfgang Maass.
+\newblock Edge of chaos and prediction of computational performance for neural
+  circuit models.
+\newblock {\em Neural Networks}, 20(3):323--334, 2007.
+
+\bibitem{lukovsevivcius2012reservoir}
+Mantas Luko{\v{s}}evi{\v{c}}ius, Herbert Jaeger, and Benjamin Schrauwen.
+\newblock Reservoir computing trends.
+\newblock {\em KI-K{\"u}nstliche Intelligenz}, 26(4):365--371, 2012.
+
+\bibitem{maass2011liquid}
+Wolfgang Maass.
+\newblock Liquid state machines: motivation, theory, and applications.
+\newblock In {\em Computability in context: computation and logic in the real
+  world}, pages 275--296. World Scientific, 2011.
+
+\bibitem{maass2002synapses}
+Wolfgang Maass and Henry Markram.
+\newblock Synapses as dynamic memory buffers.
+\newblock {\em Neural Networks}, 15(2):155--161, 2002.
+
+\bibitem{maass2002real}
+Wolfgang Maass, Thomas Natschl{\"a}ger, and Henry Markram.
+\newblock Real-time computing without stable states: A new framework for neural
+  computation based on perturbations.
+\newblock {\em Neural computation}, 14(11):2531--2560, 2002.
+
+\bibitem{mallat1993matching}
+St{\'e}phane~G Mallat and Zhifeng Zhang.
+\newblock Matching pursuits with time-frequency dictionaries.
+\newblock {\em IEEE Transactions on signal processing}, 41(12):3397--3415,
+  1993.
+
+\bibitem{markram1998differential}
+Henry Markram, Yun Wang, and Misha Tsodyks.
+\newblock Differential signaling via the same axon of neocortical pyramidal
+  neurons.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  95(9):5323--5328, 1998.
+
+\bibitem{memmesheimer2014learning}
+Raoul-Martin Memmesheimer, Ran Rubin, Bence~P {\"O}lveczky, and Haim
+  Sompolinsky.
+\newblock Learning precisely timed spikes.
+\newblock {\em Neuron}, 82(4):925--938, 2014.
+
+\bibitem{mohemmed2012span}
+Ammar Mohemmed, Stefan Schliebs, Satoshi Matsuda, and Nikola Kasabov.
+\newblock Span: Spike pattern association neuron for learning spatio-temporal
+  spike patterns.
+\newblock {\em International journal of neural systems}, 22(04):1250012, 2012.
+
+\bibitem{mohemmed2013training}
+Ammar Mohemmed, Stefan Schliebs, Satoshi Matsuda, and Nikola Kasabov.
+\newblock Training spiking neural networks to associate spatio-temporal
+  input--output spike patterns.
+\newblock {\em Neurocomputing}, 107:3--10, 2013.
+
+\bibitem{nicola2016supervised}
+Wilten Nicola and Claudia Clopath.
+\newblock Supervised learning in spiking neural networks with force training.
+\newblock {\em arXiv preprint arXiv:1609.02545}, 2016.
+
+\bibitem{ohno1998effects}
+Sumio Ohno, Hiroya Fujisaki, and Yoshikazu Hara.
+\newblock On the effects of speech rate upon parameters of the command-response
+  model for the fundamental frequency contours of speech.
+\newblock In {\em Fifth International Conference on Spoken Language
+  Processing}, 1998.
+
+\bibitem{pfister2006optimal}
+Jean-Pascal Pfister, Taro Toyoizumi, David Barber, and Wulfram Gerstner.
+\newblock Optimal spike-timing-dependent plasticity for precise action
+  potential firing in supervised learning.
+\newblock {\em Neural computation}, 18(6):1318--1348, 2006.
+
+\bibitem{pipaextended}
+Gordon Pipa and Robin Cao.
+\newblock Extended liquid computing in networks of spiking neurons.
+\newblock 2010.
+
+\bibitem{ponulak2006supervised}
+Filip Ponulak.
+\newblock Supervised learning in spiking neural networks with resume method.
+\newblock {\em Phd, Poznan University of Technology}, 46:47, 2006.
+
+\bibitem{ponulak2010supervised}
+Filip Ponulak and Andrzej Kasi{\'n}ski.
+\newblock Supervised learning in spiking neural networks with resume: sequence
+  learning, classification, and spike shifting.
+\newblock {\em Neural computation}, 22(2):467--510, 2010.
+
+\bibitem{ponulak2006generalization}
+Filip Ponulak and Andrzej~J Kasinski.
+\newblock Generalization properties of spiking neurons trained with resume
+  method.
+\newblock In {\em ESANN}, pages 629--634. Citeseer, 2006.
+
+\bibitem{pyle2018model}
+Ryan Pyle and Robert Rosenbaum.
+\newblock A model of reward-modulated motor learning with parallelcortical and
+  basal ganglia pathways.
+\newblock {\em arXiv preprint arXiv:1803.03304}, 2018.
+
+\bibitem{schnell2018neural}
+Bastian Schnell and Philip~N Garner.
+\newblock A neural model to predict parameters for a generalized command
+  response model of intonation.
+\newblock {\em Proc. Interspeech 2018}, pages 3147--3151, 2018.
+
+\bibitem{sussillo2009generating}
+David Sussillo and Larry~F Abbott.
+\newblock Generating coherent patterns of activity from chaotic neural
+  networks.
+\newblock {\em Neuron}, 63(4):544--557, 2009.
+
+\bibitem{tanaka2019recent}
+Gouhei Tanaka, Toshiyuki Yamane, Jean~Benoit H{\'e}roux, Ryosho Nakane, Naoki
+  Kanazawa, Seiji Takeda, Hidetoshi Numata, Daiju Nakano, and Akira Hirose.
+\newblock Recent advances in physical reservoir computing: a review.
+\newblock {\em Neural Networks}, 2019.
+
+\bibitem{triefenbach2014large}
+Fabian Triefenbach, Kris Demuynck, and Jean-Pierre Martens.
+\newblock Large vocabulary continuous speech recognition with reservoir-based
+  acoustic models.
+\newblock {\em IEEE Signal Processing Letters}, 21(3):311--315, 2014.
+
+\bibitem{triefenbach2010phoneme}
+Fabian Triefenbach, Azarakhsh Jalalvand, Benjamin Schrauwen, and Jean-Pierre
+  Martens.
+\newblock Phoneme recognition with large hierarchical reservoirs.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2307--2315, 2010.
+
+\bibitem{vapnikn}
+V~Vapnik.
+\newblock N.(1998) statistical learning theory.
+
+\bibitem{wojcik2012electrical}
+Grzegorz~M Wojcik.
+\newblock Electrical parameters influence on the dynamics of the
+  hodgkin--huxley liquid state machine.
+\newblock {\em Neurocomputing}, 79:68--74, 2012.
+
+\bibitem{wojcik2007liquid}
+Grzegorz~M Wojcik and Wieslaw~A Kaminski.
+\newblock Liquid state machine and its separation ability as function of
+  electrical parameters of cell.
+\newblock {\em Neurocomputing}, 70(13-15):2593--2597, 2007.
+
+\bibitem{zhang2015digital}
+Yong Zhang, Peng Li, Yingyezhe Jin, and Yoonsuck Choe.
+\newblock A digital liquid state machine with biologically inspired learning
+  and its application to speech recognition.
+\newblock {\em IEEE transactions on neural networks and learning systems},
+  26(11):2635--2649, 2015.
+
+\bibitem{zhao2018nonlinear}
+Ziyue Zhao, Huijun Liu, and Tim Fingscheidt.
+\newblock Nonlinear prediction of speech by echo state networks.
+\newblock In {\em 2018 26th European Signal Processing Conference (EUSIPCO)},
+  pages 2085--2089. IEEE, 2018.
+
+\end{thebibliography}

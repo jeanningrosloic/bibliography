@@ -1,0 +1,610 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.8)  24 APR 2019 17:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**LitteratureSummaries.tex
+(./LitteratureSummaries.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks16
+\thm@bodyfont=\toks17
+\thm@headfont=\toks18
+\thm@notefont=\toks19
+\thm@headpunct=\toks20
+\thm@preskip=\skip43
+\thm@postskip=\skip44
+\thm@headsep=\skip45
+\dth@everypar=\toks21
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks23
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen113
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen114
+\subfiglabelskip=\skip49
+\c@subfigure=\count91
+\c@lofdepth=\count92
+\c@subtable=\count93
+\c@lotdepth=\count94
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(./LitteratureSummaries.aux)
+\openout1 = `LitteratureSummaries.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(48.0pt, 518.295pt, 48.0pt)
+* v-part:(T,H,B)=(48.0pt, 698.96999pt, 48.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=518.295pt
+* \textheight=698.96999pt
+* \oddsidemargin=-24.26999pt
+* \evensidemargin=-24.26999pt
+* \topmargin=-61.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen115
+\scratchbox=\box26
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen116
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(./LitteratureSummaries.toc
+
+LaTeX Warning: Citation `izhikevich2003simple' on page 1 undefined on input lin
+e 2.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: Citation `gerstner2014neuronal' on page 1 undefined on input lin
+e 4.
+
+
+LaTeX Warning: Citation `pfister2006optimal' on page 1 undefined on input line 
+5.
+
+
+LaTeX Warning: Citation `ponulak2005resume' on page 1 undefined on input line 6
+.
+
+
+LaTeX Warning: Citation `kasinski2005experimental' on page 1 undefined on input
+ line 7.
+
+
+LaTeX Warning: Citation `ponulak2010supervised' on page 1 undefined on input li
+ne 8.
+
+
+LaTeX Warning: Citation `ponulak2015apparatus' on page 1 undefined on input lin
+e 9.
+
+
+LaTeX Warning: Citation `huh2018gradient' on page 1 undefined on input line 10.
+
+
+
+LaTeX Warning: Citation `kasinski2006comparison' on page 1 undefined on input l
+ine 11.
+
+
+LaTeX Warning: Citation `florian2008tempotron' on page 1 undefined on input lin
+e 12.
+
+
+LaTeX Warning: Citation `mohemmed2012span' on page 1 undefined on input line 13
+.
+
+
+LaTeX Warning: Citation `mohemmed2013training' on page 1 undefined on input lin
+e 14.
+
+
+LaTeX Warning: Citation `memmesheimer2014learning' on page 1 undefined on input
+ line 15.
+
+
+LaTeX Warning: Citation `paugam2008delay' on page 1 undefined on input line 18.
+
+
+
+LaTeX Warning: Citation `maass2002real' on page 1 undefined on input line 20.
+
+
+LaTeX Warning: Citation `izhikevich2006polychronization' on page 1 undefined on
+ input line 21.
+
+
+LaTeX Warning: Citation `sussillo2009generating' on page 1 undefined on input l
+ine 22.
+
+
+LaTeX Warning: Citation `nicola2016supervised' on page 1 undefined on input lin
+e 26.
+
+
+LaTeX Warning: Citation `lukovsevivcius2012reservoir' on page 1 undefined on in
+put line 27.
+
+
+LaTeX Warning: Citation `kraft2006design' on page 1 undefined on input line 28.
+
+
+
+LaTeX Warning: Citation `jaeger2004harnessing' on page 1 undefined on input lin
+e 29.
+
+
+LaTeX Warning: Citation `schnell2018neural' on page 1 undefined on input line 3
+1.
+
+[1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Citation `mesgarani2014phonetic' on page 2 undefined on input li
+ne 32.
+
+
+LaTeX Warning: Citation `dichter2018control' on page 2 undefined on input line 
+33.
+
+
+LaTeX Warning: Citation `honnet2017intonation' on page 2 undefined on input lin
+e 37.
+
+
+LaTeX Warning: Citation `tikidji2017software' on page 2 undefined on input line
+ 42.
+
+
+LaTeX Warning: Citation `gautrais1998rate' on page 2 undefined on input line 43
+.
+
+)
+\tf@toc=\write3
+\openout3 = `LitteratureSummaries.toc'.
+
+ [2]
+
+LaTeX Warning: Citation `izhikevich2003simple' on page 1 undefined on input lin
+e 31.
+
+
+LaTeX Warning: Citation `gerstner2014neuronal' on page 1 undefined on input lin
+e 57.
+
+
+LaTeX Warning: Citation `pfister2006optimal' on page 1 undefined on input line 
+67.
+
+[1]
+
+LaTeX Warning: Citation `ponulak2005resume' on page 2 undefined on input line 7
+4.
+
+
+LaTeX Warning: File `fig/ReSuMe_learning_rule1.png' not found on input line 79.
+
+
+
+! Package pdftex.def Error: File `fig/ReSuMe_learning_rule1.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ...s[scale=.4]{fig/ReSuMe_learning_rule1.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Citation `kasinski2005experimental' on page 2 undefined on input
+ line 84.
+
+
+LaTeX Warning: Citation `ponulak2010supervised' on page 2 undefined on input li
+ne 96.
+
+[2]
+
+LaTeX Warning: File `fig/ReSuMe_learning_rule2.png' not found on input line 132
+.
+
+
+! Package pdftex.def Error: File `fig/ReSuMe_learning_rule2.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132 ...scale=.35]{fig/ReSuMe_learning_rule2.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Citation `ponulak2015apparatus' on page 3 undefined on input lin
+e 137.
+
+
+LaTeX Warning: Citation `huh2018gradient' on page 3 undefined on input line 141
+.
+
+[3]
+
+LaTeX Warning: Citation `kasinski2006comparison' on page 4 undefined on input l
+ine 145.
+
+
+LaTeX Warning: File `fig/ComparisonSupervisedLearningMethods.png' not found on 
+input line 149.
+
+
+! Package pdftex.def Error: File `fig/ComparisonSupervisedLearningMethods.png' 
+not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 .../ComparisonSupervisedLearningMethods.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Citation `florian2008tempotron' on page 4 undefined on input lin
+e 154.
+
+
+LaTeX Warning: Citation `mohemmed2012span' on page 4 undefined on input line 15
+9.
+
+[4]
+
+LaTeX Warning: File `fig/SPAN1.png' not found on input line 183.
+
+
+! Package pdftex.def Error: File `fig/SPAN1.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.183 \includegraphics[scale=.35]{fig/SPAN1.png}
+                                                
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Citation `mohemmed2013training' on page 5 undefined on input lin
+e 190.
+
+
+Overfull \hbox (0.35437pt too wide) in paragraph at lines 190--190
+[]\OT1/cmr/bx/n/14.4 Training spik-ing neu-ral net-works to as-so-ciate spatio-
+temporal input-
+ []
+
+
+LaTeX Warning: Citation `mohemmed2012span' on page 5 undefined on input line 19
+2.
+
+
+LaTeX Warning: Citation `memmesheimer2014learning' on page 5 undefined on input
+ line 194.
+
+
+LaTeX Warning: Citation `paugam2008delay' on page 5 undefined on input line 208
+.
+
+[5]
+
+LaTeX Warning: Citation `maass2002real' on page 6 undefined on input line 222.
+
+[6]
+
+LaTeX Warning: Citation `izhikevich2006polychronization' on page 7 undefined on
+ input line 253.
+
+
+LaTeX Warning: Citation `sussillo2009generating' on page 7 undefined on input l
+ine 274.
+
+[7] [8]
+
+LaTeX Warning: Citation `nicola2016supervised' on page 9 undefined on input lin
+e 328.
+
+[9]
+
+LaTeX Warning: Citation `lukovsevivcius2012reservoir' on page 10 undefined on i
+nput line 343.
+
+
+LaTeX Warning: Citation `kraft2006design' on page 10 undefined on input line 35
+1.
+
+
+LaTeX Warning: Citation `jaeger2004harnessing' on page 10 undefined on input li
+ne 354.
+
+
+LaTeX Warning: Citation `schnell2018neural' on page 10 undefined on input line 
+366.
+
+[10]
+
+LaTeX Warning: Citation `mesgarani2014phonetic' on page 11 undefined on input l
+ine 394.
+
+
+LaTeX Warning: Citation `dichter2018control' on page 11 undefined on input line
+ 400.
+
+[11] [12]
+
+LaTeX Warning: Citation `honnet2017intonation' on page 13 undefined on input li
+ne 435.
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+[13]
+
+LaTeX Warning: Citation `tikidji2017software' on page 14 undefined on input lin
+e 491.
+
+
+LaTeX Warning: Citation `gautrais1998rate' on page 14 undefined on input line 4
+93.
+
+[14]
+No file LitteratureSummaries.bbl.
+[15] (./LitteratureSummaries.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2432 strings out of 492995
+ 35494 string characters out of 6132705
+ 103938 words of memory out of 5000000
+ 5934 multiletter control sequences out of 15000+600000
+ 11239 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,7n,32p,955b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on LitteratureSummaries.pdf (17 pages, 204817 bytes).
+PDF statistics:
+ 115 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
